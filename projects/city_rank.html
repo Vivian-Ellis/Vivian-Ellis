@@ -164,6 +164,29 @@
 		nav a:hover {
 			text-decoration: underline;
 		}
+
+		/* streamlit iframe */
+		body,
+		html {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+
+		.iframe-container {
+			height: 100%;
+			width: 50%;
+			float: left;
+			/* Ensure the iframe container floats left to align properly */
+		}
+
+		.iframe-container iframe {
+			height: 100%;
+			width: 100%;
+			/* Set iframe width to 100% to fill its container */
+			border: none;
+			/* Remove iframe border */
+		}
 	</style>
 
 </head>
@@ -180,12 +203,9 @@
 				<a href="~/Portfolio.html">Portfolio</a>
 				<a href="~/About.html">About Me</a>
 			</nav>
-        </header>
+		</header>
 
-        <iframe
-        src="https://city-rankings.streamlit.app/?embed=true"
-        style="height: 100%; width: 50%;"
-        ></iframe>
+		<iframe src="https://city-rankings.streamlit.app/?embed=true"></iframe>
 
-    </div>
+	</div>
 </body>
