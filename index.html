@@ -52,8 +52,8 @@
 			flex: 1;
 			position: relative;
 			align-items: center;
-			padding-left: 250px;
-			padding-right: 250px;
+			padding-left: 100px;
+			padding-right: 100px;
 			margin-bottom: 50px;
 			/* Adjust this value as needed */
 			padding-bottom: 50px;
@@ -117,20 +117,21 @@
 
 		/* title */
 		#bio-section h3 {
-			margin: 3px;
-			margin-top: 50px;
-			/* Remove default margins */
+			margin: 15px;
+			margin-top: 5px;
 			padding: 0;
-			/* Remove default padding */
 		}
 
 		/* name */
 		#bio-section h1 {
-			margin-top: 150px;
-			margin: 0px;
-			/* Remove default margins */
-			padding: 0;
-			/* Remove default padding */
+			margin-top: 5px;
+			margin-bottom: 0px;
+			padding: 10px;
+		}
+
+		/* intro snippet */
+		#bio-section p {
+			margin: 15px;
 		}
 
 		/* socials */
@@ -164,7 +165,7 @@
 
 		#top3 .box {
 			border: none;
-			padding: 20px;
+			padding: 15px;
 			text-align: center;
 			border-radius: 8px;
 		}
@@ -172,6 +173,16 @@
 		#top3 img {
 			width: 150px;
 			border-radius: 0%;
+		}
+
+		#top3 h1 {
+			font-size: 24px;
+			font-weight: bold;
+		}
+
+		#top3 p {
+			text-align: justify;
+			font-size: 16px;
 		}
 
 		/* portfolio projects */
@@ -440,10 +451,11 @@
 			<div class="container">
 				<img src="images/me.jpg" alt="Me" style="width:350px">
 				<header id="bio">
+					<br>
+					<br>
 					<h1>Vivian Ellis</h1>
 					<h3>Data Scientist</h3>
-					<br>
-					<p>I'm a Data Scientist with three years of experience building predictive models and creating
+					<p>I'm a Data Scientist with over three years of experience building predictive models and creating
 						interactive reports that drive product innovation and provide valuable data insights.</p>
 				</header>
 			</div>
@@ -463,7 +475,7 @@
 			<div class="container" id="top3">
 				<div class="box">
 					<img src="images/Develop.png" alt="Develop Icon" class="icon">
-					<h3>Machine Learning</h3>
+					<h1>Machine Learning</h1>
 					<p>I use advanced techniques, such as <b>Gradient Boosting algorithms</b>, such as XGBoost, and <b>probabilistic models</b>, 
 						like Beta-Geometric/NBD models, to accurately predict customer lifetime value. <b>Regression analysis</b> allows 
 						me to gain valuable insights into customer behavior and its connection to predicted lifetime value, allowing 
@@ -472,15 +484,15 @@
 				</div>
 				<div class="box">
 					<img src="https://raw.githubusercontent.com/Vivian-Ellis/Vivian-Ellis/main/images/Analyze.png" alt="Analyze Icon" class="icon">
-					<h3>Analyze</h3>
-					<p>My data analysis approach emphasizes rigorous techniques such as <b>bivariate and multivariate analyses</b>, <b>correlation analysis</b>, 
+					<h1>Analyze</h1>
+					<p>My data analysis approach emphasizes rigorous techniques such as <b>bivariate</b> and <b>multivariate analyses</b>, <b>correlation analysis</b>, 
 						and <b>variance inflation factors</b> to detect multicollinearity and reveal relationships across data points. I leverage advanced 
-						<b>feature engineering<b> techniques such as <b>Elastic Net<b> to help reduce dimensionality and improve predictive modeling
+						<b>feature engineering</b> techniques such as <b>Elastic Net</b> to help reduce dimensionality and improve predictive modeling
 						 capabilities. I am dedicated to leveraging these methods to extract valuable insights and enable informed decision-making from complex datasets.</p>
 				</div>
 				<div class="box">
 					<img src="images/Visualize.png" alt="Visualize Icon" class="icon">
-					<h3>Visualize</h3>
+					<h1>Visualize</h1>
 					<p>I have developed over 20 <b>Looker Studio</b> dashboards featuring visualizations for <b>experimental
 						analysis</b>, <b>behavioral insights</b>, and model metric tracking. My expertise in data visualization
 						helps convey complex data in an understandable and actionable format, aiding stakeholders in
