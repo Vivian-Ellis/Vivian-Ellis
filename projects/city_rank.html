@@ -166,17 +166,11 @@
 		}
 
 		/* streamlit iframe */
-		body,
-		html {
-			height: 100%;
-			margin: 0;
-			padding: 0;
-		}
-
 		.iframe-container {
 			height: 100%;
-			width: 50%;
+			width: 100%;
 			float: left;
+			border: none;
 			/* Ensure the iframe container floats left to align properly */
 		}
 
@@ -185,10 +179,10 @@
 			width: 100%;
 			/* Set iframe width to 100% to fill its container */
 			border: none;
+			border-style: none;
 			/* Remove iframe border */
 		}
 	</style>
-
 </head>
 
 <body class="is-preload">
@@ -199,13 +193,17 @@
 		<header id="header">
 
 			<nav>
-				<a href="~/index.html">Home</a>
-				<a href="~/Portfolio.html">Portfolio</a>
-				<a href="~/About.html">About Me</a>
+				<a href="~/workspaces/Vivian-Ellis/index.html">Home</a>
+				<a href="Portfolio.html">Portfolio</a>
+				<a href="About.html">About Me</a>
 			</nav>
+			<div class="inner">
+
+				<div class="column">
+					<iframe src="https://city-rankings.streamlit.app/?embed=true" width="1000px" height="1150px"></iframe>
+				</div>
+			</div>
 		</header>
-
-		<iframe src="https://city-rankings.streamlit.app/?embed=true"></iframe>
-
 	</div>
 </body>
+</html>
