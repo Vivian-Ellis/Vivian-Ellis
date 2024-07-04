@@ -19,7 +19,7 @@ customer profits. I specialize in
 | :------------------- |  :------------------ | :----- |
 |📲 [A/B Testing Website Variations](https://www.kaggle.com/code/vellis1/a-b-testing-website-variations)  | T-test, Two Way ANOVA | June 2024 |
 |🏡 [Housing Cost](https://www.kaggle.com/code/vellis1/housing-cost-statistical-significance)| Q-Q Plot, Shapiro-Wilk test, Kruskal-Wallis, Dunn test |June 2024|
-|🏃🏽‍♀️ [Womens Track](https://github.com/Vivian-Ellis/Womens-Track/tree/main) | |Factor analysis, Scree Test | June 2018 |
+|🏃🏽‍♀️ [Womens Track](https://github.com/Vivian-Ellis/Womens-Track/tree/main) | Factor analysis, Scree Test | June 2018 |
 |🗺️ [Customers Country of Residence](https://github.com/Vivian-Ellis/Logistic-Regression/blob/main/README.md)) | Hosmer and Lemeshow Goodness-of-Fit, Chi-square test | June 2018 |
 
 ## Analytics Projects
