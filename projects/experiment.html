@@ -85,6 +85,14 @@
 			font-size: 20px;
 		}
 
+		.project-item h2 {
+			margin: 7px 0;
+			color: grey;
+			font-weight: normal;
+			font-style: italic;
+			font-size: 14px;
+		}
+
 		.tags {
 			display: flex;
 			flex-wrap: wrap;
@@ -107,7 +115,7 @@
 			line-height: 1.4;
 		}
 
-		#additional_projects{
+		#additional_projects {
 			font-size: 28px;
 			padding-left: 50px;
 		}
@@ -129,7 +137,10 @@
 			</ul>
 		</header>
 		<div class="row">
-			<iframe width="1100" height="900" src="https://lookerstudio.google.com/embed/reporting/ae7de6e6-cc99-463b-904e-5137c19e1afa/page/p_uc0sr1ra2c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>		
+			<iframe width="1100" height="900"
+				src="https://lookerstudio.google.com/embed/reporting/ae7de6e6-cc99-463b-904e-5137c19e1afa/page/p_uc0sr1ra2c"
+				frameborder="0" style="border:0" allowfullscreen
+				sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 			<div class="projects-container" id="portfolio-section">
 				<!-- view more projects -->
 				<div class="inner">
@@ -141,15 +152,30 @@
 							<img src="../images/cohort.jpg" alt="Project Image">
 						</a>
 						<h1>Cohort Analysis</h1>
+						<h2>Dec 2023</h2>
 						<div class="tags">
 							<span class="tag">Looker Studio</span>
 						</div>
 						<p class="snippet">A monthly interval of historical and future revenue of customers grouped by first-order month.</p>
 					</div>
+
+					<!-- project  -->
+					<div class="project-item" data-category="data-viz">
+						<a href="../projects/insights.html">
+							<img src="../images/insights.jpg" alt="Project Image">
+						</a>
+						<h1>Customer Insights</h1>
+						<h2>May 2023</h2>
+						<div class="tags">
+							<span class="tag">Looker Studio</span>
+							<span class="tag">Elastic Net</span>
+						</div>
+						<p class="snippet">An acquisition dashboard that illuminates profitable marketing campaigns and the importance of customer attributes.</p>
+					</div>
 					</div>
 				</div>
 			</div>
-		
+
 		</div>
 	</div>
 </body>

@@ -85,6 +85,14 @@
 			font-size: 20px;
 		}
 
+		.project-item h2 {
+			margin: 7px 0;
+			color: grey;
+			font-weight: normal;
+			font-style: italic;
+			font-size: 14px;
+		}
+
 		.tags {
 			display: flex;
 			flex-wrap: wrap;
@@ -107,7 +115,7 @@
 			line-height: 1.4;
 		}
 
-		#additional_projects{
+		#additional_projects {
 			font-size: 28px;
 			padding-left: 50px;
 		}
@@ -129,26 +137,47 @@
 			</ul>
 		</header>
 		<div class="row">
-			<iframe width="1400" height="800" src="https://lookerstudio.google.com/embed/reporting/f85dda6b-5377-4e01-afc8-f446ce896a3d/page/C2s4D" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>		
-			
+			<iframe width="1400" height="800"
+				src="https://lookerstudio.google.com/embed/reporting/f85dda6b-5377-4e01-afc8-f446ce896a3d/page/C2s4D"
+				frameborder="0" style="border:0" allowfullscreen
+				sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 			<div class="projects-container" id="portfolio-section">
 				<!-- view more projects -->
 				<div class="inner">
 					<h1 id="additional_projects">Related Visulization Projects</h1>
 					<div class="grid-container">
-					<!-- project 8 -->
-					<div class="project-item" data-category="data-viz">
-						<a href="../projects/experiment.html">
-							<img src="../images/experiment_dashboard.jpg" alt="Project Image">
-						</a>
-						<h1>At-Risk Churn Customers</h1>
-						<div class="tags">
-							<span class="tag">Looker Studio</span>
-							<span class="tag">Z-test</span>
-							<span class="tag">Power Analysis</span>
+						<!-- project  -->
+						<div class="project-item" data-category="data-viz">
+							<a href="../projects/insights.html">
+								<img src="../images/insights.jpg" alt="Project Image">
+							</a>
+							<h1>Customer Insights</h1>
+							<h2>May 2023</h2>
+							<div class="tags">
+								<span class="tag">Looker Studio</span>
+								<span class="tag">Elastic Net</span>
+							</div>
+							<p class="snippet">An acquisition dashboard that illuminates profitable marketing campaigns
+								and the importance of customer attributes.</p>
 						</div>
-						<p class="snippet">An experiment conducted to evaluate the effectiveness of discount strategies on reducing customer churn and their impact on customer lifetime value (CLV)</p>
-					</div>		
+
+						<!-- project  -->
+						<div class="project-item" data-category="data-viz" data-category2="stats">
+							<a href="../projects/experiment.html">
+								<img src="../images/experiment_dashboard.jpg" alt="Project Image">
+							</a>
+							<h1>At-Risk Churn Customers</h1>
+							<h2>Jan 2023</h2>
+							<div class="tags">
+								<span class="tag">Looker Studio</span>
+								<span class="tag">Z-test</span>
+								<span class="tag">Power Analysis</span>
+							</div>
+							<p class="snippet">An experiment conducted to evaluate the effectiveness of discount
+								strategies on reducing customer churn and their impact on customer lifetime value (CLV)
+							</p>
+						</div>
 					</div>
 				</div>
 			</div>
