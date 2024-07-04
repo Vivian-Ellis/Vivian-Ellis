@@ -9,6 +9,6 @@ customer profits. I specialize in
 
 <br><br>
 Machine Learning Projects
-| Project           | Description | Techniques Implemented |
-| :---------------- | :------- | :----- |
-| Mushroom Classification  |   blah blah blah   | Random Forest |
+| Project           | Description | Techniques Implemented | Date |
+| :---------------- | :------- | :----- | :----- |
+| Mushroom Classification  |   blah blah blah   | Random Forest | June 2024 |
