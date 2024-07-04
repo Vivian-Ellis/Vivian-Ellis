@@ -19,6 +19,6 @@ A data scientist with extensive experience developing machine learning models us
 |🗺️ [Customers Country of Residence](https://github.com/Vivian-Ellis/Logistic-Regression/blob/main/README.md)) | Hosmer and Lemeshow Goodness-of-Fit, Chi-square test | June 2018 |
 
 ## Analytics Projects
-| Project Code             | Description | Techniques Implemented | Date |
-| :------------------- | :------- | :----- | :----- |
+| Project Viz | Project Code             | Description | Techniques Implemented | Date |
+| :------------------- || :------------------- | :------- | :----- | :----- |
 |🌇 [City Rankings](https://github.com/Vivian-Ellis/city-rankings/blob/main/streamlit_app.py)  |   Creating a ranking for US cities depending on user input.   | Streamlit, Data Visualization | June 2024 |
