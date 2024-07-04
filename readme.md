@@ -9,6 +9,6 @@ customer profits. I specialize in
 
 <br><br>
 Machine Learning Projects
-| Project           | Description | Techniques Implemented | Date |
-| :---------------- | :------- | :----- | :----- |
+| Project              | Description | Techniques Implemented | Date |
+| :------------------- | :------- | :----- | :----- |
 | 🍄‍🟫 [Mushroom Classification](https://github.com/Vivian-Ellis/ML/blob/main/Mushroom%20Classification%20%3A%20Random%20Forest/random_forest.ipynb)  |   Classification of poisonous  mushrooms based on their characteristics.   | Random Forest, Feature Engineering | June 2024 |
