@@ -20,5 +20,5 @@ A data scientist with extensive experience developing machine learning models us
 
 ## Analytics Projects
 | Project Viz | Project Code             | Description | Techniques Implemented | Date |
-| :------------------- || :------------------- | :------- | :----- | :----- |
-|🌇 [City Rankings](https://github.com/Vivian-Ellis/city-rankings/blob/main/streamlit_app.py)  |   Creating a ranking for US cities depending on user input.   | Streamlit, Data Visualization | June 2024 |
+| :------------------- | :------------------- | :------- | :----- | :----- |
+||🌇 [City Rankings](https://github.com/Vivian-Ellis/city-rankings/blob/main/streamlit_app.py)  |   Creating a ranking for US cities depending on user input.   | Streamlit, Data Visualization | June 2024 |
