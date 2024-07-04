@@ -21,4 +21,5 @@ A data scientist with extensive experience developing machine learning models us
 ## Analytics Projects
 | Project Viz          | Project Code             | Techniques Implemented | Date |
 | :------------------- | :------------------- | :------- | :----- |
-|[Streamlit App](https://city-rankings.streamlit.app/)|🌇 [City Rankings](https://github.com/Vivian-Ellis/city-rankings/blob/main/streamlit_app.py)  | Streamlit, Data Visualization | June 2024 |
+|[Streamlit App](https://city-rankings.streamlit.app/)|🌇 [City Rankings](https://github.com/Vivian-Ellis/city-rankings/blob/main/streamlit_app.py)  | Streamlit | June 2024 |
+|[Bokeh Dashboard]([https://city-rankings.streamlit.app/](https://vivian-ellis.github.io/Vivian-Ellis/projects/bokeh.html))|🌇 [Video Game Sales](https://github.com/Vivian-Ellis/Data-Viz/blob/main/bokeh/video_game_sales.ipynb)  | Bokeh | Oct 2023 |
