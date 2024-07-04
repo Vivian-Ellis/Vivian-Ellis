@@ -11,4 +11,4 @@ customer profits. I specialize in
 Machine Learning Projects
 | Project           | Description | Techniques Implemented | Date |
 | :---------------- | :------- | :----- | :----- |
-| Mushroom Classification  |   blah blah blah   | Random Forest | June 2024 |
+| 🍄‍🟫 [Mushroom Classification](https://github.com/Vivian-Ellis/ML/blob/main/Mushroom%20Classification%20%3A%20Random%20Forest/random_forest.ipynb)  |   blah blah blah   | Random Forest | June 2024 |
