@@ -7,6 +7,7 @@ A data scientist with extensive experience developing machine learning models us
 ## Machine Learning Projects
 | Project              | Techniques Implemented | Date |
 | :------------------- |  :------------------ | :----- |
+|🚀 [Scratch Linear Regression](https://github.com/Vivian-Ellis/ML/blob/main/LinearRegression/scratch_lr.ipynb)   | OLS, Gradient Decent | July 2024 |
 |🍄‍🟫 [Mushroom Classification](https://github.com/Vivian-Ellis/ML/blob/main/Mushroom%20Classification%20%3A%20Random%20Forest/random_forest.ipynb)   | Random Forest, Feature Engineering | June 2024 |
 |🏡 [Predicting Housing Cost](https://www.kaggle.com/code/vellis1/predicting-housing-cost-with-ensemble-model)| Ensemble Model (SVR, RandomForest, GradientBoosting)| June 2024 |
 |🎙️ [Podcast Retrieval](https://github.com/Vivian-Ellis/Podcasts-Ad-Hoc-Retrieval)|VSM, LDA, LSH| June 2020|
