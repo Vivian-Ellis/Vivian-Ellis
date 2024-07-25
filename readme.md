@@ -20,8 +20,9 @@ A data scientist with extensive experience developing machine learning models us
 |🏃🏽‍♀️ [Womens Track](https://github.com/Vivian-Ellis/Womens-Track/tree/main) | Factor analysis, Scree Test | June 2018 |
 |🗺️ [Customers Country of Residence](https://github.com/Vivian-Ellis/Logistic-Regression/blob/main) | Hosmer and Lemeshow Goodness-of-Fit, Chi-square test | June 2018 |
 
-## Analytics Projects
+## Data Viz Projects
 | Project Viz          | Project Code             | Techniques Implemented | Date |
 | :------------------- | :------------------- | :------- | :----- |
+|[Plotly Dashboard](https://plotly.com/~vivianellis/8/video-game-sales/)|👾 [Annual Video Game Trends](https://github.com/Vivian-Ellis/Data-Viz/blob/main/plotly/videogamesales.ipynb)|Plotly|July 2024|
 |[Streamlit App](https://city-rankings.streamlit.app/)|🌇 [City Rankings](https://github.com/Vivian-Ellis/city-rankings/blob/main/streamlit_app.py)  | Streamlit | June 2024 |
 |[Bokeh Dashboard](https://vivian-ellis.github.io/Vivian-Ellis/projects/bokeh.html)|🎮 [Video Game Sales](https://github.com/Vivian-Ellis/Data-Viz/blob/main/bokeh/video_game_sales.ipynb)  | Bokeh | Oct 2023 |
