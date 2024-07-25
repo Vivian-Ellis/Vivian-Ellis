@@ -1,7 +1,7 @@
 <p> Hi, I'm Vivian 👋🏻
 <br>
 <br>
-A data scientist with extensive experience developing machine learning models using Deep Neural Networks and XGBoost. My work directly impacts customer lifetime value (CLV) prediction and provides data-driven insights for making informed decisions for various campaigns, including political and marketing initiatives. Feel free to explore my portfolio to learn more about my <i><b>data visualization</b></i> and <i><b>machine learning</b></i> expertise.
+A data scientist with expertise in developing and deploying advanced machine learning models to drive business value, optimize strategies, and create actionable insights through sophisticated analysis and visualization. Feel free to explore my portfolio to learn more about my artful <i><b>data visualization</b></i> creations and <i><b>machine learning</b></i> knowledge.
 <br>
 
 ## Machine Learning Projects
