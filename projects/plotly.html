@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="../assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
+	</noscript>
+	<title>Video Game Sales - Plotly</title>
+	<style>
+		/* navigation style */
+
+		#nav-banner {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: white;
+			position: fixed;
+			top: 0;
+			width: 100%;
+			z-index: 1000;
+		}
+
+		#nav-banner li {
+			float: left;
+		}
+
+		#nav-banner li a {
+			display: block;
+			/* color: white; */
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+		}
+
+		#nav-banner li a:hover {
+			text-decoration: underline;
+			color: #FFBE81 !important;
+			box-shadow: none;
+		}
+
+		/* Portfolio section */
+		#portfolio-section {
+			padding-top: 50px;
+			padding-left: 50px;
+		}
+
+		/* portfolio projects */
+		.grid-container {
+			display: grid;
+			gap: 20px;
+			grid-template-columns: repeat(4, 1fr);
+			padding: 10px;
+			padding-left: 50px;
+		}
+
+		.project-item {
+			width: 50%;
+			padding: 10px;
+			border-radius: 8px;
+			display: flex;
+			flex-direction: column;
+		}
+
+		.project-item:hover {
+			position: relative;
+			padding: 10px;
+			border-radius: 8px;
+			background-color: rgba(232, 232, 232, .7);
+			transition: background-color 0.5s ease;
+		}
+
+		.project-item img {
+			width: 100%;
+			border-radius: 8px 8px 0 0;
+			cursor: pointer;
+		}
+
+		.project-item h1 {
+			margin: 10px 0;
+			font-size: 20px;
+		}
+
+		.project-item h2 {
+			margin: 7px 0;
+			color: grey;
+			font-weight: normal;
+			font-style: italic;
+			font-size: 14px;
+		}
+
+		.tags {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 5px;
+			margin-bottom: 10px;
+		}
+
+		.tag {
+			background-color: #8C6D93;
+			/* font-weight: bold; */
+			color: white;
+			padding: 3px 8px;
+			border-radius: 90px;
+			font-size: 14px;
+		}
+
+		.snippet {
+			font-size: 0.9rem;
+			line-height: 1.4;
+		}
+
+		#additional_projects {
+			font-size: 28px;
+			padding-left: 50px;
+		}
+
+		.row {
+			padding-left: 80px;
+		}
+	</style>
+	<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.5.0.min.js"></script>
+	<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.5.0.min.js"></script>
+	<script type="text/javascript">
+		Bokeh.set_log_level("info");
+	</script>
+</head>
+
+<body>
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<ul id="nav-banner">
+				<li><a class="active" href="../index.html">Home</a></li>
+				<li><a href="../index.html#about-section">About Me</a></li>
+				<li><a href="../index.html#portfolio-section">Portfolio</a></li>
+			</ul>
+		</header>
+		<div class="row">
+			<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/dashboard/vivianellis:8/embed"></iframe>
+		</div>
+</body>
+
+</html>
