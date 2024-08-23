@@ -1,12 +1,16 @@
 <p> Hi, I'm Vivian 👋🏻
 <br>
 <br>
-A data scientist with expertise in developing and deploying advanced machine learning models to drive business value, optimize strategies, and create actionable insights through sophisticated analysis and visualization. Feel free to explore my portfolio to learn more about my artful <i><b>data visualization</b></i> creations and <i><b>machine learning</b></i> knowledge.
+A data scientist with expertise in developing and deploying advanced machine learning models to drive business value, optimize strategies, and create actionable insights through sophisticated analysis and visualization. 
+<br>
+<br>
+Feel free to explore my portfolio to learn more about my artful <i><b>data visualization</b></i> creations and <i><b>machine learning</b></i> knowledge.
 <br>
 
 ## Machine Learning Projects
 | Project              | Techniques Implemented | Date |
 | :------------------- |  :------------------ | :----- |
+|🧠 [Custom Neural Net for Classification](https://github.com/Vivian-Ellis/ML/blob/main/PyTorch/training.py)   | PyTorch, Neural Nets, Data Splitting and Model Eval  | Aug 2024 |
 |🚀 [Scratch Linear Regression](https://github.com/Vivian-Ellis/ML/blob/main/LinearRegression/scratch_lr.ipynb)   | OLS, Gradient Decent | July 2024 |
 |🍄‍🟫 [Mushroom Classification](https://github.com/Vivian-Ellis/ML/blob/main/Mushroom_Classification_RandomForest/random_forest.ipynb)   | Random Forest, Feature Engineering | June 2024 |
 |🏡 [Predicting Housing Cost](https://www.kaggle.com/code/vellis1/predicting-housing-cost-with-ensemble-model)| Ensemble Model (SVR, RandomForest, GradientBoosting)| June 2024 |
