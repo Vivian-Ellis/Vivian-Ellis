@@ -1,20 +1,42 @@
-<p> Hi, I'm Vivian 👋🏻
+<p> Hi, I'm Vivian
 <br>
 <br>
-A data scientist with expertise in developing and deploying advanced machine learning models to drive business value, optimize strategies, and create actionable insights through sophisticated analysis and visualization. 
+I'm a data scientist with experience building machine learning models, statistical inference systems, and analytics platforms that support data-driven decision making at scale.
 <br>
 <br>
-Feel free to explore my portfolio to learn more about my artful <i><b>data visualization</b></i> creations and <i><b>machine learning</b></i> knowledge.
+My background spans healthcare analytics, customer lifetime value modeling, survey inference, experimentation, and agentic AI applications.
 <br>
+<br>
+Feel free to explore my portfolio featuring projects in machine learning, statistical analysis, data visualization, and AI-powered analytics.
+<br>
+
+# Featured Projects
+## Agentic Analytics AI
+An agentic analytics platform that orchestrates statistical analysis, visualization generation, and LLM reasoning through a modular tool-based architecture. Users can perform ranking, comparison, and correlation analyses through a conversational interface while receiving statistically grounded results and interactive visualizations.
+<br>
+<br>
+**Tech Stack:** Python • Agentic AI • LLM Tool Calling • Statistical Testing • Pandas • DuckDB • Streamlit • Bokeh
+<br>
+<br>
+**LIVE DEMO** -> https://fred-analytics-ai-agent.streamlit.app/
+<br>
+<br>
+**Repository:** https://github.com/Vivian-Ellis/AgenticAnalyticsAI
+
+## Custom Neural Network for Customer Churn
+blah blah blah
+
+## Podcast Retrieval System
+blah blah blah
 
 ## Machine Learning Projects
 | Project              | Techniques Implemented | Date |
 | :------------------- |  :------------------ | :----- |
-|🧠 [Custom Neural Net for Classification](https://github.com/Vivian-Ellis/ML/blob/main/PyTorch/training.py)   | PyTorch, Neural Nets, Data Splitting and Model Eval  | Aug 2024 |
-|🚀 [Scratch Linear Regression](https://github.com/Vivian-Ellis/ML/blob/main/LinearRegression/scratch_lr.ipynb)   | OLS, Gradient Decent | July 2024 |
+|🧠 [Custom Neural Network for Customer Churn](https://github.com/Vivian-Ellis/ML/blob/main/PyTorch/training.py)   | PyTorch, Neural Networks, Early Stopping, Regularization, Learning Curves, Model Eval | Aug 2024 |
+|🚀 [Scratch Linear Regression](https://github.com/Vivian-Ellis/ML/blob/main/LinearRegression/scratch_lr.ipynb)   | OLS, Gradient Descent | July 2024 |
 |🍄‍🟫 [Mushroom Classification](https://github.com/Vivian-Ellis/ML/blob/main/Mushroom_Classification_RandomForest/random_forest.ipynb)   | Random Forest, Feature Engineering | June 2024 |
 |🏡 [Predicting Housing Cost](https://www.kaggle.com/code/vellis1/predicting-housing-cost-with-ensemble-model)| Ensemble Model (SVR, RandomForest, GradientBoosting)| June 2024 |
-|🎙️ [Podcast Retrieval](https://github.com/Vivian-Ellis/Podcasts-Ad-Hoc-Retrieval)|VSM, LDA, LSH| June 2020|
+|🎙️ [Podcast Retrieval System](https://github.com/Vivian-Ellis/Podcasts-Ad-Hoc-Retrieval)|Information Retrieval, NLP, LDA Topic Modeling, Vector Space Models, Similarity Search, nDCG Evaluation | June 2020|
 
 ## Statistics Projects
 | Project              | Techniques Implemented | Date |
